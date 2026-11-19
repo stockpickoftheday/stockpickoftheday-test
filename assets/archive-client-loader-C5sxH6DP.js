@@ -1,0 +1,1 @@
+import{t as e}from"./picks-DsDF9wkV.js";async function t(){return{items:e(new Date().toISOString().slice(0,10))}}t.hydrate=!0;export{t as clientLoader};
